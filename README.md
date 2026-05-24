@@ -4,7 +4,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Machine_Learning-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white)
 
-![App Screenshot](https://files.catbox.moe/tscobc.png)
+![App Screenshot](https://files.catbox.moe/tsf7mn.png)
 
 This project is an end-to-end Data Science application that predicts real estate market prices based on property features (e.g., location, rooms, square footage) using Machine Learning algorithms, and serves the model via a dynamic Streamlit web application.
 
